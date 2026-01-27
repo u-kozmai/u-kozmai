@@ -1,4 +1,4 @@
-# Selam, ben [Ulaş Nalbantoğlu]! 👋
+# Selam, ben Mehmet Ulaş Nalbantoğlu! 👋
 
 ### 🎓 Yazılım Geliştirici & TOBB ETÜ Öğrencisi
 
@@ -37,4 +37,4 @@ Yazılım dışında sıkı bir **kahve tutkunuyum**.
 
 ---
 
-📫 **Bana Ulaşın:** [mehmetulasn@gmail.com]
+📫 **Bana Ulaşın:** mehmetulasn@gmail.com
