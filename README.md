@@ -16,7 +16,7 @@ Bilgisayar bilimleri ve matematik odaklı bir akademik disiplinden geliyorum. Fu
 
 | Alan | Araçlar |
 | :--- | :--- |
-| **Diller** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Diller** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
 | **Diğer** | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E9431E?style=flat&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
@@ -32,8 +32,8 @@ Yazılım dışında sıkı bir **kahve tutkunuyum**.
 ---
 
 ### 📊 GitHub İstatistikleri
-![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=u-kozmai&show_icons=true&theme=tokyonight)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=u-kozmai&layout=compact&theme=tokyonight)
+![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=u-kozmai&show_icons=true&theme=dark)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=u-kozmai&layout=compact&theme=dark)
 
 ---
 
